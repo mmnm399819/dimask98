@@ -40,7 +40,7 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 	</style>`).insertBefore('body');
 	$('.u-msg.break.fl').css('color','#000000')
 	
-	$(`<center><div width="99.5%" style="background-image:url(https://chatshams.com/sico/z1d2n7i5vl10.jpeg);color: #595B61;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"><font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;">مرحبـاً بكـم جميعاً في شـات عشقي </font></div><center/>`).insertBefore('#d2');
+	$(`<center><div width="99.5%" style="background-image:url(https://chatshams.com/sico/z1d2n7i5vl10.jpeg);color: #595B61;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"><font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;">مرحبـاً بكـم جميعاً في شـات الابـــرز </font></div><center/>`).insertBefore('#d2');
 	$(`<div style="width:100%;" id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">إضغـط هُنآ </div>
 	<div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"> </p>صـــآحب آلمــوقــع </p> <i class="fa fa-"></i> <a href="" style="border-radius: 90px 90px 90px 90px;width:48%;margin:2px;" class="fl mini fa fa-star
 	btn btn-primary"> طـــلآل آلأبـــرزي </a>
