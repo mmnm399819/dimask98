@@ -43,9 +43,9 @@ $('.nav-tabs').addClass('fl').css('width','100%');
 	$(`<center><div width="99.5%" style="background-image:url(https://chatshams.com/sico/z1d2n7i5vl10.jpeg);color: #595B61;border-radius: 5px 5px 5px5px;border-bottom: 2px solid #ffffff;border-top: 2px solid#ffffff;padding-bottom: 2px!important;"><font style="background-color: #fff;border-radius: 15px 15px 15px 15px;font-family: 'jazeera',FontAwesome;padding: 2px 10px 2px 10px;margin: 7px 10px 7px 10px;">مرحبـاً بكـم جميعاً في شـات دمــــعــه</font></div><center/>`).insertBefore('#d2');
 	$(`<div style="width:100%;" id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">إضغـط هُنآ </div>
 	<div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"> </p>صـــآحب آلمــوقــع </p> <i class="fa fa-"></i> <a href="" style="border-radius: 90px 90px 90px 90px;width:48%;margin:2px;" class="fl mini fa fa-star
-	btn btn-primary"> طـــلآل . عـــــلـــووش آلأبـــرزي  </a>
+	btn btn-primary">  عـــــلـــووش آلأبـــرزي  </a>
 	<a href="" style="border-radius: 90px 90px 90px 90px;width:49%;margin:2px;p dir="ltr" align="center" class="fl mini fa fa-heart
-	btn btn-primary"> </a>
+	btn btn-primary">طــلال الابــرزي </a>
 	‏ <center></div></div></div>`).insertAfter('.nav-tabs');
 	
 	$(`<button style="width:24px;margin:2px;" style="margin-top:2px;margin-left:2px;" class="fa fa-microphone fl btn btn-info"></button>`).insertBefore('button.fr.fa.fa-share-alt.sndfile.fl.btn.btn-primary');
