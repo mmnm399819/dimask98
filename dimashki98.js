@@ -1,14 +1,14 @@
 
 setTimeout (function (){   $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تصميم وبرمجه: <a href='https://jawalhost.com/'>جوال هوست</a></div>").insertAfter($(".loginstat"));  },1000);
 eval((emo+'').replace('[0-9][0-9]|','[0-9][0-9][0-9]|[0-9][0-9]|'));
-$(`<iframe width="100%" src="https://www.youtube.com/embed/F2sZFAuOdwk" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+$(`<iframe width="100%" src="https://www.youtube.com/embed/GUaQEphtxC4" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	
  `).insertBefore('.nav-tabs');
-$(`<div style="width:100%;" id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">إضغـط هُنآ </div>
+$(`<div style="width:100%;" id="" class="btn btn-primary btn-ali" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">حياكم </div>
 	<div class="collapse" id="collapseExample"><center><div class="well"><p lass="bg-primary"> </p>صـــآحب آلمــوقــع </p> <i class="fa fa-"></i> <a href="" style="border-radius: 90px 90px 90px 90px;width:48%;margin:2px;" class="fl mini fa fa-star
-	btn btn-primary">  عـــــلـــووش آلأبـــرزي  </a>
+	btn btn-primary">   للجوال</a>
 	<a href="" style="border-radius: 90px 90px 90px 90px;width:49%;margin:2px;p dir="ltr" align="center" class="fl mini fa fa-heart
-	btn btn-primary">طــلال الابــرزي </a>
+	btn btn-primary">شات دمعة </a>
 	‏ <center></div></div></div>`).insertAfter('.nav-tabs');
 if(location.protocol!='https:'){location.protocol='https:';}$(`<style>.fitimg.fl.u-pic { box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(243, 238, 238, 0.767); border-radius: 50px 50px 50px 50px;}</style>`).insertBefore('body')
 $('.break.light').css({"background-image":"url(#)"});
