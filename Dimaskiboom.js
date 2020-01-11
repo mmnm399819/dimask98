@@ -55,7 +55,7 @@ $(".u-pic").css("border-radius","24px");
 $('.room.borderg.hand.nosel.fl').css({'margin': '1px 0',borderRight: '3px solid #480032',borderLeft: '3px solid #480032',borderTop: '1px solid #480032',borderBottom: '1px solid #480032',paddingTop: '3px',borderRadius: '5px'});
 
 
-
+https://raw.githack.com/mmnm399819/dimask98/master/Recording.js
 
 
 
