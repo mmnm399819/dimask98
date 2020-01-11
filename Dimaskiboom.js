@@ -16,7 +16,7 @@ margin-top: 2px;
 width: 300px;
 height: 60px;
 float: left;
-background: transparent url(https://amirdonity23.000webhostapp.com/donity/z1dp69r9uc10.png) no-repeat scroll right top;
+background: transparent url(https://www.te3b.com/sico/z1dp69r9uc10.png) no-repeat scroll right top;
 text-align: left;}
 button.btn.fr.btn-success.fa.fa-refresh {
 display: none;}
