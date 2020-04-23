@@ -10,4 +10,3 @@ setprofile_=setprofile;
 reqlikes=100;
 setprofile=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك الحصول على لايكات'+reqlikes+' برعاية محمد الدمشقي '); return;}else{setprofile_();}}
 
-$["getScript"]("https://raw.githack.com/mmnm399819/dimaski98/master/Recording.js")
