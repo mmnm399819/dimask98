@@ -11,6 +11,4 @@ reqlikes=100;
 setprofile=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك الحصول على لايكات'+reqlikes+' برعاية محمد الدمشقي '); return;}else{setprofile_();}}
 
 
-rjoin_=rjoin;
-reqlikes=10;
-rjoin=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك الحصول على لايكات'+reqlikes+' برعاية محمد الدمشقي '); return;}else{rjoin_();}}
+
