@@ -12,3 +12,4 @@ setprofile=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك ا
 
 
 
+$("div#tlogins input").attr("maxlength",5),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
