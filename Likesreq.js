@@ -34,4 +34,6 @@ $("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-st
 
 $(".fa-gear").text("آعدآدت الشات").css("width","");
 
+setTimeout (function (){  $("<div class='fr borderg' style='padding:2px;background-color:white;margin-right:4px;'>تعديل و تصميم: <a href='https://api.whatsapp.com/send?phone=905349315009&amp;text=&amp;source=&amp;data=/'>  محمد الدمشقي © 2020</a></div>").insertAfter($(".loginstat"));  },1000);
+
 $("div#tlogins input").attr("maxlength",5),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
