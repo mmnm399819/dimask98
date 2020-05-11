@@ -12,4 +12,26 @@ setprofile=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك ا
 
 
 
+$('.fl.ustat')
+
+.css('width', '3px'), $('.fa.fa-user-plus')
+
+.html(`❥ تسجيل عضوية `), document.getElementById('u1')
+
+.placeholder = 'اكتب أي اسم من 5 احرف فقط ', 
+
+document.getElementById('pass1')
+
+.placeholder = 'كلمة المرور', document.getElementById('u2')
+
+.placeholder = 'فخآمة طلتك تنورنا', document.getElementById('pass2')
+
+.placeholder = ' ㋡ بـاسوردك ولاتنساه يـ جميل ', document.getElementById('u3')
+
+.placeholder = '♥ أكتب أي اسم من 5 أحرف فقط';
+
+$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لـوحة الشـآت ") 
+
+$(".fa-gear").text("آعدآدت الشات").css("width","");
+
 $("div#tlogins input").attr("maxlength",5),$("textarea#tbox.fl.corner.tbox.filw").attr("maxlength",1000);
