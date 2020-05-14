@@ -38,7 +38,7 @@ btn btn-default"> مدونتنا </a>
 
 $.getScript("https://cdn.statically.io/gh/mmnm399819/dimask98/master/Chatshamm.js");
 
-$('.nav-tabs').addClass('fl').css('width','100%');
 
-$(`<link rel="stylesheet" type="text/css" href=""><link rel="stylesheet" href=""><style>img.fl.ustat {display: none!important;}</style>`).insertBefore('body');
+
+
 
