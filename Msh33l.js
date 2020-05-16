@@ -32,3 +32,4 @@ document.getElementById('pass1')
 .placeholder = '♥ أكتب أي اسم من 8 أحرف فقط';
 
 
+$(".fa-gear").text("آعدآدات").css("width","");
