@@ -33,3 +33,5 @@ document.getElementById('pass1')
 
 
 $(".fa-gear").text("آعدآدات").css("width","");
+
+$("label.label.tc.border.cp.btn.label-danger.fl").html("<span class='fl fa fa-star-half-o'></span> لـوحة الشـآت ") 
