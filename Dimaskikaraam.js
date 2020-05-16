@@ -36,7 +36,7 @@ btn btn-default"> مدونتنا </a>
 
 `).insertBefore('.nav-tabs');
 
-$.getScript("https://cdn.statically.io/gh/mmnm399819/dimask98/master/Dimashkitest.js");
+$.getScript("https://cdn.statically.io/gh/mmnm399819/dimask98/master/Dimashkiteest.js");
 
 
 
