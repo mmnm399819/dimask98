@@ -27,5 +27,5 @@ btn btn-primary"> رمزيات </a>
 btn btn-default"> مدونتنا </a>
 `).insertBefore('.nav-tabs');
 
-$.getScript("https://cdn.statically.io/gh/mmnm399819/dimask98/master/Chatshamm.js");
+$.getScript("https://cdn.statically.io/gh/mmnm399819/dimask98/master/Dimashkiteest.js");
 
