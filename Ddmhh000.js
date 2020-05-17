@@ -1,20 +1,4 @@
-Tsend_=Tsend;
 
-reqlikes=100;
-
-Tsend=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك الحصول على لايكات'+reqlikes+' برعاية محمد الدمشقي'); return;}else{Tsend_();}}
-
-sendpic_=sendpic;
-
-reqlikes=100;
-
-sendpic=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك الحصول على لايكات '+reqlikes+' برعاية محمد الدمشقي'); return;}else{sendpic_();}}
-
-setprofile_=setprofile;
-
-reqlikes=100;
-
-setprofile=function(){if(getuser(myid).rep<reqlikes){alert('يتطلب منك الحصول على لايكات'+reqlikes+' برعاية محمد الدمشقي '); return;}else{setprofile_();}}
 
 $(`<img src="sico/z1e8evh9ho10.gif" class="fr" style="width:100%;margin-top: 0px;">
 <a id="des3" href=".com" style="border-radius: 24px 0px 24px 0px;width:23%;margin:2px;" class="fl mini  fa  fa-
