@@ -1,0 +1,103 @@
+.border {
+    border: 0px solid #dad9d9!important;
+}
+
+label.ae.fa.label {
+    border: 1px solid #dad9d9!important;
+}
+
+.btn-primary {
+    border-color: #d4d4d4!important;
+}
+
+.light {
+    background-color: #eae9e9;
+}
+
+.bg {
+    background-color: #c1bfbf;
+}
+
+
+ul.nav.nav-tabs>li>a {
+    color: #908f8f;
+}
+
+#des0 {
+	background-color: #908f8f;
+}
+
+.label-primary, .btn-primary {
+    background-color: #908f8f!important;
+    background-image: -webkit-linear-gradient(right,#315E56 0,#908f8f 120%)!important;
+}
+
+
+
+
+.hand.nosel.fl.uzr.borderg {
+    background-color: #fff!important;
+	width: 98%!important;
+    margin-top: 3px!important;
+    margin-left: 4px!important;
+    border-radius: 3px!important;
+    border: 1px!important;
+}
+
+
+
+div#tlogins ::-webkit-scrollbar {
+    width: 5px;
+    height: 10px
+}
+
+div#tlogins ::-webkit-scrollbar-button {
+    width: 5px;
+    height: 5px
+}
+
+div#tlogins ::-webkit-scrollbar-thumb {
+    background: 0 0;
+    border: 71px #fff;
+    border-radius: 31px;
+    background-color: #294F48;
+}
+
+.border,div#tlogins {
+    box-shadow: inset 1px 1px 1px 0 #0084bb2e,0 0 2px #0084bb61
+}
+
+div#tlogins ::-webkit-scrollbar-thumb:active {
+    background: 0 0
+}
+
+div#tlogins ::-webkit-scrollbar-track {
+    background: #fff;
+    border: 65px #fff;
+    border-radius: 34px
+}
+
+div#tlogins ::-webkit-scrollbar-track:hover {
+    background: 0 0
+}
+
+div#tlogins ::-webkit-scrollbar-track:active {
+    background: 0 0
+}
+
+div#tlogins ::-webkit-scrollbar-corner {
+    background: 0 0
+}
+
+div#tlogins .fl.mini.u-msg {
+    margin-top: 3px!important;
+    border-radius: 3px!important
+}
+
+
+div#tlogins .u-topic.dots {
+    background-color: #f5d1e0;
+    width: 800px;
+    background-image: -webkit-linear-gradient(right,#fff 0,#2E5951 120%);
+    color: #100000!important;
+}
